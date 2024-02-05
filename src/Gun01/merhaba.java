@@ -9,6 +9,7 @@ public class merhaba {
             System.out.println("merhabayn voyn");
 
         }
+        System.out.println("merhaba6");
 
 
 
